@@ -12,7 +12,7 @@ search for and book these accomodations.It includes entire homes,private rooms a
 
 It consists of both categorical and numerical dataset.
 
-Number of Observations = 48895
+Number of Observations = 48895 ;
 Number of Attributes = 16
 
 This dataset is useful for analyzing the trends and patterns in the Airbnb market in NewYork.
