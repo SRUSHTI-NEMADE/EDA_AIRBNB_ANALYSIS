@@ -2,7 +2,7 @@
 
 
 
-<a href="url"><img src="Airbnb.jpg" align="center" height="400" width="700" ></a>
+<a href="url"><img src="Airbnb.jpg" align="center" height="300" width="600" ></a>
 
 ## AIRBNB BOOKING ANALYSIS:
 
@@ -16,6 +16,7 @@ Number of Observations = 48895 ;
 Number of Attributes = 16
 
 This dataset is useful for analyzing the trends and patterns in the Airbnb market in NewYork.
+
 Dataset contains infromation about Airbnb bookings in Newyork city in 2019.
 
 
